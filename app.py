@@ -76,7 +76,7 @@ def get_files_in_directory(directory="data"):
 
 
 def rag_implementation():
-    # This function will implement RAG Lyzr QA bot
+    # This function will implement RAG Lyzr ChatBot
     path = get_files_in_directory()
     path = path[0]
 
